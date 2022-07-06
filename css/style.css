@@ -4,21 +4,12 @@
   padding: 0;
 }
 
-/* body {
-   background: #ffff00;
- } */
-
-button {
-   background: #010440 !important;
-   color: #ffff00 !important;
-}
-
-picture img {
-   border-radius: 100%;
-}
-
-
 /* Language: css */
 /* Path: css\style.css */
 /* background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(247,247,247,1) 0%, rgba(247,247,247,1) 12%, rgba(196,240,249,1) 100%, rgba(126,230,251,1) 100%, rgba(0,212,255,1) 100%); */
+
+/* 
+background: -webkit-linear-gradient(90deg, rgb(242, 242, 242), rgb(130, 168, 217));
+background: linear-gradient(90deg, rgb(242, 242, 242), rgb(130, 168, 217));
+*/
