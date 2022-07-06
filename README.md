@@ -36,3 +36,11 @@
 [Business_3D](https://icons8.com/illustrations)<br>
 [Menoji](https://getemoji.com/)<br>
 
+
+#### Consulta Manipulação de Arquivos
+
+[Tiny WoW](https://tinywow.com)
+
+
+#### Teste de Usabilidade
+[Teste de Usabilidade](https://dequeuniversity.com/rules/axe/3.1/color-contrast)
