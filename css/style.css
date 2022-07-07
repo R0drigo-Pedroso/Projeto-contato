@@ -17,3 +17,9 @@ h1, h2 {
 aside {
   background:#0468BF;
 }
+
+picture {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
