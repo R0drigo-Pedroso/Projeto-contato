@@ -33,11 +33,11 @@
 
 #### Consulta de Ilustrações
 
-[Business_3D](https://icons8.com/illustrations)<br>
+[Business 3D](https://icons8.com/illustrations)<br>
 [Menoji](https://getemoji.com/)<br>
 
 
-#### Consulta Manipulação de Arquivos
+#### Manipulação de Arquivos
 
 [Tiny WoW](https://tinywow.com)
 
