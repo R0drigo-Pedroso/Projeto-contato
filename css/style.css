@@ -10,16 +10,46 @@ body {
   font-family: 'Be Vietnam', sans-serif;
 }
 
+main p {
+  font-weight: bold;
+}
+
 h1, h2 {
   letter-spacing: 2px;
 }
 
-aside {
-  background:#0468BF;
+aside, footer {
+  background:#0468BF !important;
 }
 
-picture {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
+.tamanho-img {
+  width: 35%;
+  margin: auto;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.bn-hover:hover {
+  color: #04509A !important;
+  background: #FFFFFF !important;
+
+  transition: all 0.5s ease-in-out;
+}
+
+#flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .tamanho-img {
+    width: 80%;
+    margin: auto;
+  }  
 }
